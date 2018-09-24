@@ -32,3 +32,9 @@ exten => 1234,1,Answer()
 ; End the call
  same => n,Hangup()
 ```
+
+--------
+Examples
+--------
+Based on Pico TTS AGI script by Steven Mirabito, based on Google TTS AGI script by Lefteris Zafiris. Distributed under the GNU General Public
+License v2. See COPYING for details.
